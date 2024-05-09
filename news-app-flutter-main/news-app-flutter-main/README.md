@@ -1,5 +1,4 @@
-# NewsWipe
-
+# Pratidin 
 <!-- ![Flutter news app by vandit](https://i.imgur.com/OEf05lU.gif) -->
 
 <p align="center"><img src="https://i.imgur.com/OEf05lU.gif"></p>
