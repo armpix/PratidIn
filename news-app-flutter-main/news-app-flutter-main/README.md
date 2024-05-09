@@ -1,7 +1,7 @@
 # Pratidin 
 <!-- ![Flutter news app by vandit](https://i.imgur.com/OEf05lU.gif) -->
 
-<p align="center"><img src="https://i.imgur.com/OEf05lU.gif"></p>
+<p align="center"><img src="https://imgur.com/a/r9A36dl"></p>
 
 | Main Screen | Content Screen | Image View |
 |-------------|----------------|------------|
